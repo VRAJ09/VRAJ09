@@ -29,8 +29,11 @@ I'm a 3rd year Undergraduate student at the University of Wisconsin-Madison stud
 ## 💻 Tech Stack
 
 <p>
+	
 	![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+	
 	![Micro.blog](https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white)
+ 
 	![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)
 </p>
   
