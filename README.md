@@ -69,7 +69,7 @@ I'm a 3rd year Undergraduate student at the University of Wisconsin-Madison stud
 
 ## 🎓 GitHub
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vraj09&show_icons=true&locale=en&layout=compact" alt="vraj09" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vraj09&theme=dark&show_icons=true&locale=en&layout=compact" alt="vraj09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vraj09&show_icons=true&locale=en" alt="vraj09" /></p>
 
