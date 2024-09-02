@@ -36,8 +36,6 @@ I'm a 3rd year Undergraduate student at the University of Wisconsin-Madison stud
  	<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
  	<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   	<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  	<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-	<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 **ML/AI**
@@ -59,6 +57,8 @@ I'm a 3rd year Undergraduate student at the University of Wisconsin-Madison stud
 	<img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 	<img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 	<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+	<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+	<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 **Database**
@@ -67,124 +67,10 @@ I'm a 3rd year Undergraduate student at the University of Wisconsin-Madison stud
 	<img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </p>
 
-## 🎓 Looking Ahead
+## 🎓 GitHub
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vraj09&show_icons=true&locale=en&layout=compact" alt="vraj09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vraj09&show_icons=true&locale=en" alt="vraj09" /></p>
 
-<!-- Adding a one-liner for each project
-- GTA V
-  - Description
-- Brain Tumor project
-  - Description
-- Paws Connect 
-  - Description
-- LLM Projects
-  - Description
-- -->
-
-<!--GITHUB STREAK-->
-<br>
-<p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sartajbhuvaji&" alt="sartajbhuvaji" />
-</p>
-
-<!--CURRENTLY WORKING ON-->
-<h2 align="center"> Currently Working on </h2>
-<table align="center">
-<!--   <tr>
-    <td valign="top" halign="center" width="100%">
-      <img width="400" src="https://github.com/SartajBhuvaji/Flask-app-Data-Augmentation/blob/main/github_readme/density_plots.png" />
-       <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
-     </td>
-  </tr> -->
-  <tr align="center">
-    <td valign="top" width="100%">
-      <a href="https://github.com/SartajBhuvaji/Cuda">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Cuda&theme=tokyonight" />
-      </a>
-      <a href="https://github.com/SartajBhuvaji/Chess-Engine">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Chess-Engine&theme=tokyonight" />
-      </a>  
-    </td>
-  </tr>
-</table>
-
-<!--FAV PROJECTS-->
-<!--
-<br>
-<table align="center">
-  <tr>
-    <td valign="top" width="100%">
-      <h2 align="center">My favorite projects</h2>
-    </td>
-  </tr>
-   <tr>
-    <td valign="top" halign="center" width="100%">
-      <img width="400" src="https://github.com/YuriDevAT/sos-animals/blob/main/public/thumbnail-sos.png" />
-       <img width="400" src="https://github.com/the-collab-lab/tcl-19-smart-shopping-list/blob/main/public/Thumbnail.png" />
-     </td>
-  </tr> 
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/SartajBhuvaji/Brain-Tumor-Classification-Using-Deep-Learning-Algorithms">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Brain-Tumor-Classification-Using-Deep-Learning-Algorithms&theme=tokyonight"/>
-      </a>
-     <a href="https://github.com/SartajBhuvaji/Steam-Big-Data-Pipeline">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Steam-Big-Data-Pipeline&theme=tokyonight"/>
-      </a>  
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <a href="https://github.com/SartajBhuvaji/Sentiment-Analysis">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Sentiment-Analysis&theme=tokyonight"/>
-      </a>
-      <a href="https://github.com/SartajBhuvaji/Story-Forge">
-        <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SartajBhuvaji&repo=Story-Forge&theme=tokyonight"/>
-      </a>  
-    </td>
-  </tr>
-</table>
--->
-
-<!--TOP LANGUAGES-->
-<!--
-<table padding-top = 50px>
-  </td>
-  <td valign="top" width="50%">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SartajBhuvaji&layout=compact&theme=radical" width="500" />
-  </td></tr>
-</table> 
-<br>
--->
-
-<!--LANGUAGE BADGES-->
-<!--
-<table><tr><td valign="top" width="100%">
-  <h2 align="center"> 💼 Languages and Tools</h2>
-  <br/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img scr="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</table>
--->
-
-<!--PROFILE STATS-->
-<!--
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SartajBhuvaji&theme=tokyonight)](#)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SartajBhuvaji&theme=tokyonight)](#)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SartajBhuvaji&theme=tokyonight)](#)
--->
-
-<!--LINKEDIN CONNECTION-->
-<!--
-<h2 align="center"> Connect </h2>
-<div align="center">
-  <a href="https://www.linkedin.com/in/sartajbhuvaji/">
-    <img src="https://github.com/SartajBhuvaji/SartajBhuvaji/raw/main/resources/linkedin_batch.jpg" alt="LinkedIn Batch" width="200">
-  </a>
-</div>
--->
-<!--END-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vraj09&" alt="vraj09" /></p>
