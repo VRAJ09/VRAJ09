@@ -10,7 +10,7 @@
 
 ## 😁 About me
 
-I'm a 3rd year Undergraduate student at the University of Wisconsin-Madison studying Computer Science and Data Science. My passion lies in using machine learning and artificial intelligence to solve problems. I enjoy coding and building projects, as well as exploring different aspects of data science. My goal is to leverage AI to solve real-world problems.
+I'm a 3rd year Undergraduate student at the University of Wisconsin-Madison studying Computer Science and Data Science. My passion lies in using machine learning and artificial intelligence to solve problems. I enjoy coding and building projects, as well as exploring different aspects of data science. My goal is to leverage AI to solve real-world problems. I hope to pursue a career as a Data Scientist after graduation!
 
 ## 🚀 Work
 
@@ -22,7 +22,7 @@ I'm a 3rd year Undergraduate student at the University of Wisconsin-Madison stud
 
 - 🌱 I’m currently learning creating and training neural networks to solve image detection and classification problems
 
-- 📫 How to reach me **vpatel46@wisc.edu**
+- 📫 How to reach me: **vpatel46@wisc.edu**
 
 - 👨‍💻 All of my projects are available at my [GitHub](https://github.com/VRAJ09)
 
@@ -54,7 +54,7 @@ I'm a 3rd year Undergraduate student at the University of Wisconsin-Madison stud
 	<img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
-**Frontend & Backend Development
+**Frontend & Backend Development**
 <p>
 	<img alt="Next JS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 	<img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -66,16 +66,12 @@ I'm a 3rd year Undergraduate student at the University of Wisconsin-Madison stud
 	<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 	<img alt="MicrosoftSQLServer" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 </p>
-  
-I'm driven by the endless possibilities that lie at the intersection of software engineering and data science. Whether it's experimenting with `LLMs`, fine-tuning models, or building efficient data architectures, I'm always eager to learn and apply new technologies.
-
-My toolkit includes Python, Java, TensorFlow, SQL, and various big data tools. But beyond the technical skills, I pride myself on my ability to collaborate effectively and communicate complex ideas simply. These soft skills have been crucial in the success of my projects, from developing the `Resonate` framework for meeting insight extraction to creating streaming big data pipelines using AWS.
 
 ## 🎓 Looking Ahead
 
-As I graduated in `June 2024`, I'm excited about the next chapter in my career. I'm actively seeking a Full-Time Software Engineering and Data Science role where I can contribute my skills in software development, data engineering and data science. I'm particularly interested in roles that allow me to work on challenging problems and continue learning in this ever-evolving field.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vraj09&show_icons=true&locale=en&layout=compact" alt="vraj09" /></p>
 
-I believe my unique blend of research experience, practical project work, and passion for innovation makes me well-equipped to drive meaningful impact in any tech team.
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vraj09&show_icons=true&locale=en" alt="vraj09" /></p>
 
 <!-- Adding a one-liner for each project
 - GTA V
