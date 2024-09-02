@@ -14,7 +14,7 @@ I'm a 3rd year Undergraduate student at the University of Wisconsin-Madison stud
 
 ## 🚀 Work
 
-- 🔭 I’m currently working on a skin cancer classification system using deep learning algorithms such as ANN, CNN, and VGG-16
+- 🔭 I’m currently working on a skin cancer classification system using deep learning algorithms (ANN, CNN, and VGG-16)
   
 - 👯 I’m looking to collaborate on ML/AI research projects or full stack projects which use AI
 
