@@ -5,9 +5,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GitHub" width="400"> 
 </div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vraj09" alt="vraj09" /></a> </p>
-
-
 <!--INTRODUCTION-->
 <h1 align="center"> Hi there, I'm Vraj!  </h1>
 
@@ -73,6 +70,8 @@ I'm a 3rd year Undergraduate student at the University of Wisconsin-Madison stud
 ## 🎓 GitHub
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vraj09&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="vraj09" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vraj09&" alt="vraj09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vraj09&theme=tokyonight&show_icons=true&locale=en" alt="vraj09" /></p>
 
