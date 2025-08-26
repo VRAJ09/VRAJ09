@@ -1,13 +1,3 @@
-<!--START-->
-
-<!--GITHUB GIF-->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GitHub" width="400"> 
-</div>
-
-<!--INTRODUCTION-->
-<h1 align="center"> Hi there, I'm Vraj!  </h1>
-
 ## 😁 About me
 
 I'm a 3rd year Undergraduate student at the University of Wisconsin-Madison studying Computer Science and Data Science. My passion lies in using machine learning and artificial intelligence to solve problems. I enjoy coding and building projects, as well as exploring different aspects of data science. My goal is to leverage AI to solve real-world problems. I hope to pursue a career as a Data Scientist after graduation!
