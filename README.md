@@ -1,6 +1,6 @@
 ## 😁 About me
 
-I'm a 3rd year Undergraduate student at the University of Wisconsin-Madison studying Computer Science and Data Science. My passion lies in using machine learning and artificial intelligence to solve problems. I enjoy coding and building projects, as well as exploring different aspects of data science. My goal is to leverage AI to solve real-world problems. I hope to pursue a career as a Data Scientist after graduation!
+I'm a 4th year Undergraduate student at the University of Wisconsin-Madison studying Computer Science and Data Science. My passion lies in using machine learning and artificial intelligence to solve problems. I enjoy coding and building projects, as well as exploring different aspects of data science. My goal is to leverage AI to solve real-world problems. I hope to pursue a career as a Data Scientist after graduation!
 
 ## 🚀 Work
 
